@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D74E46</color>
+    <color name="colorPrimaryDark">#C6443C</color>
+    <color name="colorAccent">#000000</color>
+    <color name="color_progress_bg">#A6D74E46</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorDivider">#E1E1E1</color>
+
+</resources>
